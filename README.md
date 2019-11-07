@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A Pokemon Card App that calls the PokiApi using React.js.
+
 ## Available Scripts
 
 In the project directory, you can run:
